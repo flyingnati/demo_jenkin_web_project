@@ -15,7 +15,7 @@
 		<repository>
 			<id>Internal Repository</id>
 			<name>My Repository</name>
-			<url>http://localhost:8081/nexus/</url>
+			<url>http://203.151.162.43:8081:8081/nexus/</url>
 		</repository>
 	</repositories>
 	<pluginRepositories>
